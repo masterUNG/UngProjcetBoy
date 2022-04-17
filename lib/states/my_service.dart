@@ -41,7 +41,7 @@ class _MyServiceState extends State<MyService> {
       Map<String, dynamic> map = item;
       map['urlProduct'] = 'https://bit.ly/3vnVfVR';
 
-      print('map =======>>> $map');
+      // print('map =======>>> $map');
 
       ProductModel productModel = ProductModel.fromMap(map);
       productModels.add(productModel);
@@ -91,7 +91,7 @@ class _MyServiceState extends State<MyService> {
                         Navigator.push(
                           context,
                           MaterialPageRoute(
-                            builder: (context) => ShowDetailProduct(),
+                            builder: (context) => ShowDetailProduct(productModel: productModels[index],),
                           ),
                         );
                       },

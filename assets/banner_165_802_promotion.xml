@@ -1,0 +1,1959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PaginatedResultSetOfLinkDto xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Results>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000161</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>bottles and accessories</LinkName>
+      <LinkDescription>SodaStream Bottles and Accessories are 20% off! - Shop Now with code: SAVE20</LinkDescription>
+      <PromotionalTypes>Dollar off,Percentage off</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000161&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2022-01-14</StartDate>
+      <EndDate>2022-06-01</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000161&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;bottles and accessories&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff>20</PercentageOff>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000159</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Flavors 20% off</LinkName>
+      <LinkDescription>Save 20% on Flavors! Use Code: SAVE20</LinkDescription>
+      <PromotionalTypes>Dollar off,Percentage off</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000159&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2022-01-14</StartDate>
+      <EndDate>2022-06-01</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000159&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Flavors 20% off&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff>20</PercentageOff>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000160</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Save 20% SWMs</LinkName>
+      <LinkDescription>Save 20% on Sparkling Water Makers! Use Code: SAVE20 - Shop Now!</LinkDescription>
+      <PromotionalTypes>Dollar off,Percentage off</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000160&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2022-01-14</StartDate>
+      <EndDate>2022-06-01</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000160&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Save 20% SWMs&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff>20</PercentageOff>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000162</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Accessories</LinkName>
+      <LinkDescription>Build your own Accessories &amp; Flavors Bundle and Save!</LinkDescription>
+      <PromotionalTypes>Dollar off</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000162&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2022-01-14</StartDate>
+      <EndDate>2022-06-01</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000162&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Accessories&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000158</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>SodaStream 20% Site wide (no gas)</LinkName>
+      <LinkDescription>Save 20% Sitewide! -Code: SAVE20 - Shop now!</LinkDescription>
+      <PromotionalTypes>Dollar off,Percentage off</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000158&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2022-01-14</StartDate>
+      <EndDate>2022-06-01</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000158&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;SodaStream 20% Site wide (no gas)&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff>20</PercentageOff>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000125</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Terra - linking to PDP</LinkName>
+      <LinkDescription>The newest SodaStream Terra Sparkling Water Maker turns water from plain to bubbly in seconds! Designed for the modern kitchen, it features the new Quick Connect technology for fast and easy CO2 cylinder insertion. Shop Now!</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000125&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-09-09</StartDate>
+      <EndDate>2027-09-09</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000125&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Terra - linking to PDP&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000123</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Terra Intro</LinkName>
+      <LinkDescription>Introducing New SodaStream Terra Sparkling Water Maker! - Fresh Sparkling Water, Anytime and Anywhere!</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000123&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-09-09</StartDate>
+      <EndDate>2027-09-17</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000123&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Terra Intro&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000111</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Gas Exchange</LinkName>
+      <LinkDescription>SodaStream Gas Exchange, delivered to your door!  Order your exchanges online today</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000111&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-07-20</StartDate>
+      <EndDate>2027-07-20</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000111&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Gas Exchange&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000112</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Kombucha</LinkName>
+      <LinkDescription>Attention all kombucha lovers, Try SodaStream Kombucha in original or passion fruit/mandarin today</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000112&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-07-20</StartDate>
+      <EndDate>2027-08-13</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000112&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Kombucha&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000100</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Free shipping</LinkName>
+      <LinkDescription>FREE shipping on orders of $50 or more</LinkDescription>
+      <PromotionalTypes>FreeShipping</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000100&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-05-12</StartDate>
+      <EndDate>2027-05-12</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000100&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Free shipping&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000101</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Sodastream gas exchange</LinkName>
+      <LinkDescription>Get your SodaStream gas today!  Online delivery direct to your door.</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000101&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-05-12</StartDate>
+      <EndDate>2027-05-12</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000101&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Sodastream gas exchange&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000102</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>SodaStream Gas Spares</LinkName>
+      <LinkDescription>Gas spares always in stock and ready to ship!  Get your SodaStream gas today</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000102&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-05-12</StartDate>
+      <EndDate>2027-05-12</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000102&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;SodaStream Gas Spares&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000098</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>SodaStream Gifts</LinkName>
+      <LinkDescription>SodaStream gifts for that special sparkling person in your life!  Give the Gift of SodaStream today!</LinkDescription>
+      <PromotionalTypes>Gift with Purchase</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000098&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2021-05-10</StartDate>
+      <EndDate>2027-05-10</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000098&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;SodaStream Gifts&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000080</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Natural Organic Non GMO Flavors</LinkName>
+      <LinkDescription>Organic Craft Flavors are now available!  Order Soda Press today!</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000080&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-10-15</StartDate>
+      <EndDate>2025-10-15</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000080&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Natural Organic Non GMO Flavors&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000073</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Exchange your SodaStream CO2 almost anywhere in the US</LinkName>
+      <LinkDescription>National At Home Delivery and Exchange of SodaStream CO2</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000073&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000073&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Exchange your SodaStream CO2 almost anywhere in the US&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000074</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Variety Packs</LinkName>
+      <LinkDescription>Try SodaStream flavors today! Order one of our Fruit Drop Variety Packs</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000074&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000074&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Variety Packs&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000203</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 300x600</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000203&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.203&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000203&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 300x600" title="SodaStream Environmental 300x600"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.203&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000204</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 234x60</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000204&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.204&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000204&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 234x60" title="SodaStream Environmental 234x60"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.204&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000205</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 468x60</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000205&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.205&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000205&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 468x60" title="SodaStream Environmental 468x60"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.205&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000206</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 728x90</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000206&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.206&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000206&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 728x90" title="SodaStream Environmental 728x90"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.206&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000199</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 160x600</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000199&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.199&amp;type=4</ImageUrl>
+      <BannerWidth>160</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000199&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 160x600" title="SodaStream Environmental 160x600"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.199&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000202</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 300x250</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000202&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.202&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000202&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 300x250" title="SodaStream Environmental 300x250"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.202&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000198</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 120x600</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000198&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.198&amp;type=4</ImageUrl>
+      <BannerWidth>120</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000198&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 120x600" title="SodaStream Environmental 120x600"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.198&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000201</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 250x250</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000201&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.201&amp;type=4</ImageUrl>
+      <BannerWidth>250</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000201&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 250x250" title="SodaStream Environmental 250x250"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.201&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000200</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream Environmental 240x400</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000200&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-22</StartDate>
+      <EndDate>2025-05-22</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.200&amp;type=4</ImageUrl>
+      <BannerWidth>240</BannerWidth>
+      <BannerHeight>400</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000200&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream Environmental 240x400" title="SodaStream Environmental 240x400"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.200&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000196</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" GIF 240x400</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000196&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.196&amp;type=4</ImageUrl>
+      <BannerWidth>240</BannerWidth>
+      <BannerHeight>400</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000196&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" GIF 240x400" title="SodaStream "Endless ways to sparkle" GIF 240x400"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.196&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000194</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" GIF 300x250</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000194&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.194&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000194&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" GIF 300x250" title="SodaStream "Endless ways to sparkle" GIF 300x250"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.194&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000197</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" GIF 250x250</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000197&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.197&amp;type=4</ImageUrl>
+      <BannerWidth>250</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000197&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" GIF 250x250" title="SodaStream "Endless ways to sparkle" GIF 250x250"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.197&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000193</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" GIF 120x600</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000193&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.193&amp;type=4</ImageUrl>
+      <BannerWidth>120</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000193&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" GIF 120x600" title="SodaStream "Endless ways to sparkle" GIF 120x600"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.193&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000195</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" GIF 300x250</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000195&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.195&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000195&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" GIF 300x250" title="SodaStream "Endless ways to sparkle" GIF 300x250"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.195&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000190</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" 468x60</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000190&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.190&amp;type=4</ImageUrl>
+      <BannerWidth>468</BannerWidth>
+      <BannerHeight>60</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000190&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" 468x60" title="SodaStream "Endless ways to sparkle" 468x60"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.190&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000191</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" GIF 234x60</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000191&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.191&amp;type=4</ImageUrl>
+      <BannerWidth>234</BannerWidth>
+      <BannerHeight>60</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000191&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" GIF 234x60" title="SodaStream "Endless ways to sparkle" GIF 234x60"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.191&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000188</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" 234x60</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000188&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.188&amp;type=4</ImageUrl>
+      <BannerWidth>234</BannerWidth>
+      <BannerHeight>60</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000188&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" 234x60" title="SodaStream "Endless ways to sparkle" 234x60"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.188&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000192</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" GIF 300x600</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000192&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.192&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000192&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" GIF 300x600" title="SodaStream "Endless ways to sparkle" GIF 300x600"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.192&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000189</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream "Endless ways to sparkle" 728x90</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000189&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-05-08</StartDate>
+      <EndDate>2025-05-08</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.189&amp;type=4</ImageUrl>
+      <BannerWidth>728</BannerWidth>
+      <BannerHeight>90</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000189&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream "Endless ways to sparkle" 728x90" title="SodaStream "Endless ways to sparkle" 728x90"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.189&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000067</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>SodaStream Bottle: Environmental Message 3</LinkName>
+      <LinkDescription>Turn your back on single-use plastic bottles.</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000067&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000067&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;SodaStream Bottle: Environmental Message 3&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000068</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Sodastream Fizzi Starter Pack 1</LinkName>
+      <LinkDescription>Sparkle your water in seconds! Get our special Fizzi bundle offer.</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000068&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000068&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Sodastream Fizzi Starter Pack 1&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000065</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>SodaStream Bottle: Environmental Message</LinkName>
+      <LinkDescription>One SodaStream reusable bottle can make thousands of liters of sparking water from the tap, eliminating thousands of single-use plastic bottles.</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000065&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000065&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;SodaStream Bottle: Environmental Message&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000042</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Fizzi One touch</LinkName>
+      <LinkDescription>Sparkling water, your way!  New Fizzi One Touch Sparkling water maker.   Buy now, for the sparkling water lover</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000042&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000042&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Fizzi One touch&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000046</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Exchange your SodaStream Co2 online and deliver to your front door.  Shop now</LinkName>
+      <LinkDescription>Exchange your SodaStream Co2 online and deliver to your front door.  Shop now</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000046&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000046&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Exchange your SodaStream Co2 online and deliver to your front door.  Shop now&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000050</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>The SodaStream Aqua Fizz takes your tap water from flat to fizzed in seconds with a stylish and sleek dishwasher-safe glass carafe that you'll want to display.  Shop Now</LinkName>
+      <LinkDescription>The SodaStream Aqua Fizz takes your tap water from flat to fizzed in seconds with a stylish and sleek dishwasher-safe glass carafe that you'll want to display.  Shop now</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000050&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000050&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;The SodaStream Aqua Fizz takes your tap water from flat to fizzed in seconds with a stylish and sleek dishwasher-safe glass carafe that you'll want to display.  Shop Now&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000045</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>SodaStream at home delivery and CO2 exchange in participating locations.  Bubbles delivered to your door</LinkName>
+      <LinkDescription>SodaStream at home delivery and CO2 exchange in participating locations.  Bubbles delivered to your door</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000045&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000045&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;SodaStream at home delivery and CO2 exchange in participating locations.  Bubbles delivered to your door&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000020</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Perfect gift</LinkName>
+      <LinkDescription>SodaStream is a must-have kitchen appliance and the perfect gift.</LinkDescription>
+      <PromotionalTypes>Gift with Purchase</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000020&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000020&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Perfect gift&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000048</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Sparkling water your way, everyday.  Shop www.sodastream.com today</LinkName>
+      <LinkDescription>Sparkling water your way, everyday.  Shop www.sodastream.com today</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000048&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000048&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Sparkling water your way, everyday.  Shop www.sodastream.com today&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000049</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Our classic sparkling water maker takes your tap water from flat to fizzed in seconds.  Shop Now</LinkName>
+      <LinkDescription>Our classic sparkling water maker takes your tap water from flat to fizzed in seconds.  Shop Now</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000049&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000049&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Our classic sparkling water maker takes your tap water from flat to fizzed in seconds.  Shop Now&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000005</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Sparkling Water Makers</LinkName>
+      <LinkDescription>Shop SodaStream Sparkling Water Makers today and receive free standard ground shipping</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000005&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000005&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Sparkling Water Makers&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000041</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>Sparkling water maker standard message</LinkName>
+      <LinkDescription>Sparkling water at a touch of a button!  Shop Sodastream.com for a sparkling water maker for your kitchen.</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000041&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000041&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;Sparkling water maker standard message&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.1000000066</LinkId>
+      <LinkType>Text Link</LinkType>
+      <LinkName>SodaStream Bottle: Environmental Message 2</LinkName>
+      <LinkDescription>Go reusable! We’re stopping the global pollution epidemic in its tracks. Join Us.</LinkDescription>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000066&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2019-04-17</StartDate>
+      <EndDate>2026-01-08</EndDate>
+      <ImageUrl xsi:nil="true"/>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.1000000066&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2"&gt;SodaStream Bottle: Environmental Message 2&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000124</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Quit Soda Message (728x90)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000124&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.124&amp;type=4</ImageUrl>
+      <BannerWidth>728</BannerWidth>
+      <BannerHeight>90</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000124&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Quit Soda Message (728x90)" title="SodaStream: Quit Soda Message (728x90)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.124&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000129</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Free Shipping Over $50 GIF (728x90)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000129&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.129&amp;type=4</ImageUrl>
+      <BannerWidth>728</BannerWidth>
+      <BannerHeight>90</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000129&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Free Shipping Over $50 GIF (728x90)" title="SodaStream: Free Shipping Over $50 GIF (728x90)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.129&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000143</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand Message 2 (728x90)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000143&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.143&amp;type=4</ImageUrl>
+      <BannerWidth>728</BannerWidth>
+      <BannerHeight>90</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000143&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand Message 2 (728x90)" title="SodaStream: Brand Message 2 (728x90)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.143&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000136</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand (Gif: 728x90)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000136&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.136&amp;type=4</ImageUrl>
+      <BannerWidth>728</BannerWidth>
+      <BannerHeight>90</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000136&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand (Gif: 728x90)" title="SodaStream: Brand (Gif: 728x90)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.136&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000125</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Quit Soda Message (160x600)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000125&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.125&amp;type=4</ImageUrl>
+      <BannerWidth>160</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000125&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Quit Soda Message (160x600)" title="SodaStream: Quit Soda Message (160x600)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.125&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000126</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Free Shipping Over $50 GIF (160x600)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000126&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.126&amp;type=4</ImageUrl>
+      <BannerWidth>160</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000126&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Free Shipping Over $50 GIF (160x600)" title="SodaStream: Free Shipping Over $50 GIF (160x600)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.126&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000139</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand Message 2 (160x600)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000139&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.139&amp;type=4</ImageUrl>
+      <BannerWidth>160</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000139&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand Message 2 (160x600)" title="SodaStream: Brand Message 2 (160x600)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.139&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000132</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand (Gif: 160x600)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000132&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.132&amp;type=4</ImageUrl>
+      <BannerWidth>160</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000132&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand (Gif: 160x600)" title="SodaStream: Brand (Gif: 160x600)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.132&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000118</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Environmental Message (970x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000118&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.118&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000118&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Environmental Message (970x250)" title="SodaStream: Environmental Message (970x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.118&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000123</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Quit Soda Message (970x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000123&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.123&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000123&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Quit Soda Message (970x250)" title="SodaStream: Quit Soda Message (970x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.123&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000130</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Free Shipping Over $50 GIF (970x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000130&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.130&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000130&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Free Shipping Over $50 GIF (970x250)" title="SodaStream: Free Shipping Over $50 GIF (970x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.130&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000131</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Free Shipping Over $50 GIF (1200x628)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000131&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.131&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000131&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Free Shipping Over $50 GIF (1200x628)" title="SodaStream: Free Shipping Over $50 GIF (1200x628)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.131&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000142</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand Message 2 (628x628)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000142&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.142&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000142&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand Message 2 (628x628)" title="SodaStream: Brand Message 2 (628x628)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.142&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000144</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand Message 2 (970x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000144&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.144&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000144&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand Message 2 (970x250)" title="SodaStream: Brand Message 2 (970x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.144&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000145</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand Message 2 (1200x628)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000145&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.145&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000145&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand Message 2 (1200x628)" title="SodaStream: Brand Message 2 (1200x628)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.145&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000135</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand (Gif: 628x628)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000135&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.135&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000135&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand (Gif: 628x628)" title="SodaStream: Brand (Gif: 628x628)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.135&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000137</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand (Gif: 970x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000137&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.137&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000137&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand (Gif: 970x250)" title="SodaStream: Brand (Gif: 970x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.137&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000138</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand (Gif: 1200x628)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000138&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.138&amp;type=4</ImageUrl>
+      <BannerWidth xsi:nil="true"/>
+      <BannerHeight xsi:nil="true"/>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000138&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand (Gif: 1200x628)" title="SodaStream: Brand (Gif: 1200x628)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.138&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000141</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand Message 2 (300x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000141&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.141&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000141&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand Message 2 (300x250)" title="SodaStream: Brand Message 2 (300x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.141&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000117</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Environmental Message (300x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000117&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.117&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000117&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Environmental Message (300x250)" title="SodaStream: Environmental Message (300x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.117&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000122</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Quit Soda Message (300x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000122&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.122&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000122&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Quit Soda Message (300x250)" title="SodaStream: Quit Soda Message (300x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.122&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000128</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Free Shipping Over $50 GIF (300x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000128&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.128&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000128&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Free Shipping Over $50 GIF (300x250)" title="SodaStream: Free Shipping Over $50 GIF (300x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.128&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000120</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Environmental Message (250x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000120&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.120&amp;type=4</ImageUrl>
+      <BannerWidth>250</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000120&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Environmental Message (250x250)" title="SodaStream: Environmental Message (250x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.120&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000121</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Quit Soda Message (250x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000121&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.121&amp;type=4</ImageUrl>
+      <BannerWidth>250</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000121&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Quit Soda Message (250x250)" title="SodaStream: Quit Soda Message (250x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.121&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000127</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Free Shipping Over $50 GIF (250x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000127&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.127&amp;type=4</ImageUrl>
+      <BannerWidth>250</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000127&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Free Shipping Over $50 GIF (250x250)" title="SodaStream: Free Shipping Over $50 GIF (250x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.127&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000140</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand Message 2 (250x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000140&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.140&amp;type=4</ImageUrl>
+      <BannerWidth>250</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000140&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand Message 2 (250x250)" title="SodaStream: Brand Message 2 (250x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.140&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000133</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand (Gif: 250x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000133&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.133&amp;type=4</ImageUrl>
+      <BannerWidth>250</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000133&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand (Gif: 250x250)" title="SodaStream: Brand (Gif: 250x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.133&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000134</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>SodaStream: Brand (Gif: 350x250)</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000134&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-10-31</StartDate>
+      <EndDate>2024-10-31</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.134&amp;type=4</ImageUrl>
+      <BannerWidth>300</BannerWidth>
+      <BannerHeight>250</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000134&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="SodaStream: Brand (Gif: 350x250)" title="SodaStream: Brand (Gif: 350x250)"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.134&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000107</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>sparkling water maker generic</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000107&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-09-20</StartDate>
+      <EndDate>2024-09-20</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.107&amp;type=4</ImageUrl>
+      <BannerWidth>728</BannerWidth>
+      <BannerHeight>90</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000107&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="sparkling water maker generic" title="sparkling water maker generic"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.107&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+    <LinkDto>
+      <AdvertiserId>165</AdvertiserId>
+      <AdvertiserName>SodaStream USA</AdvertiserName>
+      <LinkId>1.42748.2000000106</LinkId>
+      <LinkType>Banner</LinkType>
+      <LinkName>7 piece sparkling water maker bundle, only $89.99.  PLUS free shipping on orders over $50</LinkName>
+      <LinkDescription xsi:nil="true"/>
+      <PromotionalTypes>General Promotion</PromotionalTypes>
+      <LinkUrl>https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000106&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2</LinkUrl>
+      <CouponCode/>
+      <CouponRestrictions xsi:nil="true"/>
+      <StartDate>2018-07-27</StartDate>
+      <EndDate>2024-07-27</EndDate>
+      <ImageUrl>https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.106&amp;type=4</ImageUrl>
+      <BannerWidth>160</BannerWidth>
+      <BannerHeight>600</BannerHeight>
+      <HtmlCode>&lt;a href="https://track.flexlinkspro.com/g.ashx?foid=1.42748.2000000106&amp;trid=1270710.165&amp;foc=12&amp;fot=9999&amp;fos=2" alt="7 piece sparkling water maker bundle, only $89.99.  PLUS free shipping on orders over $50" title="7 piece sparkling water maker bundle, only $89.99.  PLUS free shipping on orders over $50"&gt;&lt;img src="https://ad.linksynergy.com/fs-bin/show?id=PPkX79/c*b0&amp;bids=558676.106&amp;type=4" /&gt;&lt;/a&gt;</HtmlCode>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Categories>Food and Drink</Categories>
+      <Epc7D xsi:nil="true"/>
+      <Epc3M xsi:nil="true"/>
+      <PercentageOff xsi:nil="true"/>
+      <DollarOff xsi:nil="true"/>
+      <LogoURL>http://content.flexlinks.com/sharedimages/programs/1052.jpg</LogoURL>
+    </LinkDto>
+  </Results>
+  <PageNumber>1</PageNumber>
+  <PageSize>500</PageSize>
+  <TotalCount>78</TotalCount>
+  <ResultType>Success</ResultType>
+</PaginatedResultSetOfLinkDto>

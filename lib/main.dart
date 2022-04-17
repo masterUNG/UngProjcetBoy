@@ -3,6 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:ungproject/states/home.dart';
 import 'package:ungproject/states/my_service.dart';
+import 'package:ungproject/states/read_xml.dart';
 
 final Map<String, WidgetBuilder> map = {
   '/home': (context) => const Home(),
@@ -43,8 +44,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      routes: map,
-      initialRoute: initial,
+      // routes: map,
+      // initialRoute: initial,
+      home: ReadXML(),
     );
   }
 }
